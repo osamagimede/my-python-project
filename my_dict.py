@@ -22,7 +22,7 @@ def get_definition(word, dictionary):
             return "Word not found in the dictionary."
 
 # Example usage
-dictionary = load_dictionary('C:\\Users\\HP\\Downloads\\data.json')  # Add the file path that has the dictionary
+dictionary = load_dictionary('data.json')  # Add the file path that has the dictionary
 word = input("Enter a word: ")
 definition = get_definition(word, dictionary)
 print(definition)

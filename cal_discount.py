@@ -5,6 +5,7 @@ def calculate_discount(price, discount_percent):
         return discounted_price
     else:
         return price
+    
 # Define a main function to handle user input and display the final price
 def main():
     original_price = float(input("Enter the original price of the item: "))

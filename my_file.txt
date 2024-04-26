@@ -1,0 +1,6 @@
+Hello, this is line 1.
+My name is Gloria Osamagimede Samuel
+Python file handling is fun!
+Appending line 1.
+Thanks to PLP academy for the Oppourtunity
+Python file handling is awesome!
